@@ -1,0 +1,12 @@
+.CartWidget{
+    display: flex;
+    align-items: center;
+
+}
+
+.CartWidget span{
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 40%;
+}

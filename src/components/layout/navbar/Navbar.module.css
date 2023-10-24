@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 170px;
+  background-color: #cad77d;
+}
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.navbar ul a {
+  background-color: #2f5022;
+  border-radius: 20px;
+  color: white;
+  display: block;
+  text-decoration: none;
+  padding: 10px 10px;
+  font-family: "roboto";
+  font-size: 13px;
+  flex-wrap: wrap;
+}
+
+.navbar h4 {
+  font-family: "roboto";
+}
+
+.navbar a {
+  
+  text-decoration: none;
+ 
+}
